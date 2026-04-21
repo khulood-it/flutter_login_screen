@@ -24,7 +24,7 @@
 
 
 ## الكود الكامل| Full Code
-dart```
+```dart
 import 'package:flutter/material.dart';
 
 void main() {
