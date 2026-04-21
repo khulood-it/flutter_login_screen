@@ -1,18 +1,25 @@
-اسم المشروع | Project Title
+اسم المشروع |Project Title
+
 شاشة تسجيل الدخول - Login Screen
----
+
 ## شرح التكليف | Assignment Description
+
 تم تنفيذ شاشة تسجيل دخول باستخدام Flutter تحتوي على حقول لإدخال البريد الإلكتروني وكلمة المرور وزر تسجيل الدخول، وعند الضغط على الزر تظهر رسالة نجاح.
----
-تقرير الكود | Code Report
+
+
+تقرير الكود 
+| Code Report
 -تم استخدام Layouts مثل SafeArea وCenter وColumn لتنظيم العناصر بشكل مرتب ومتجاوب داخل الشاشة.
 -تم استخدام Styling عبر ThemeData وColorScheme وInputDecorationTheme لتوحيد الألوان والشكل العام للواجهة.
 -تم استخدام ElevatedButton لزر تسجيل الدخول وSnackBar لعرض رسالة النجاح للمستخدم.
----
+
+
 لقطة الشاشة (Screen Shoot):
 [![loginscreen.png](https://i.postimg.cc/DZwcyqw7/loginscreen.png)](https://postimg.cc/VS2tK0th)
 
-## الكود المل | Full Code
+
+
+## الكود الكامل| Full Code
 import 'package:flutter/material.dart';
 
 void main() {
