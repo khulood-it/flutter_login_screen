@@ -1,6 +1,6 @@
 ## البيانات الشخصية
-الاسم :خلود مهيب مهيوب
-لتخصص: قسم تقنية معلومات
+-الاسم :خلود مهيب مهيوب
+- التخصص: قسم تقنية معلومات
 
 
 ## اسم المشروع | Project Title
@@ -20,7 +20,7 @@
 
 ## لقطة شاشة تسجيل الدخول (Screen Shoot)
 
-![Masar Platform](https://i.postimg.cc/bs1YSCqc/loginscreen.png)
+![Login Screen](https://i.postimg.cc/DZwcyqw7/loginscreen.png)
 
 
 
