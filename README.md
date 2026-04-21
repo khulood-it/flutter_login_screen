@@ -1,8 +1,9 @@
 ## البيانات الشخصية
 الاسم :خلود مهيب مهيوب 
 التخصص: قسم تقنية معلومات
+---
 
-##اسم المشروع | Project Title
+## اسم المشروع | Project Title
 شاشة تسجيل الدخول - Login Screen
 
 
@@ -19,7 +20,7 @@
 
 ## لقطة شاشة تسجيل الدخول (Screen Shoot)
 
-![Login Screen](https://i.postimg.cc/DZwcyqw7/loginscreen.png)
+https://i.postimg.cc/DZwcyqw7/loginscreen.png
 
 
 
